@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![An image of @zaraakrambaig's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaraakrambaig)](https://holopin.io/@zaraakrambaig)
 <!--
 **ZaraAkramBaig/ZaraAkramBaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
