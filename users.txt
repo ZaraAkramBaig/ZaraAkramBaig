@@ -1,0 +1,2 @@
+KHAN;12345678;areeba;khan;naval
+Ak;08080802;Areeba;Khan;sr20 
